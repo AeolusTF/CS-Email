@@ -71,3 +71,5 @@ screen -r 查看任务，cs邮箱提醒脚本是运行状态
 ![](https://aeolustf.github.io/2021/03/08/cobaltstrike%E9%82%AE%E7%AE%B1%E6%8F%90%E9%86%92/15.png)
 
 ![](https://aeolustf.github.io/2021/03/08/cobaltstrike%E9%82%AE%E7%AE%B1%E6%8F%90%E9%86%92/16.png)
+
+Blog：https://aeolustf.github.io/2021/03/08/cobaltstrike%E9%82%AE%E7%AE%B1%E6%8F%90%E9%86%92/
